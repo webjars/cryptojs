@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>cryptojs</artifactId>
-    <version>3.1.2-SNAPSHOT</version>
+    <version>3.1.2</version>
     <name>CryptoJS</name>
     <description>WebJar for CryptoJS</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/cryptojs</url>
         <connection>scm:git:https://github.com/webjars/cryptojs.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/cryptojs.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>cryptojs-3.1.2</tag>
     </scm>
     
     <properties>
